@@ -27,7 +27,7 @@ const Header = () => {
       </div>
       <Image
         className="object-contain"
-        src="/AGRI (1).SVG"
+        src="https://i.ibb.co/FzBsVJh/AGRI-1.png"
         width={200}
         height={100}
       />
